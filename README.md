@@ -5,3 +5,6 @@
 3. For model's tokenizer go to <code>weights/tokenizer</code>.
 
 P.S. The model was fine-tuned on private dataset, that facilitaties text from web pages(primarly Russian language).
+
+## Results:
+![Results](https://github.com/user-attachments/assets/0bd1dd11-430d-440c-8dbd-d5556cc79df9)
