@@ -1,0 +1,2 @@
+/weights/rubert-model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+/weights/rubert-model/model.state(1).pt filter=lfs diff=lfs merge=lfs -text
