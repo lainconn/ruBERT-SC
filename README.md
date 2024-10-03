@@ -6,5 +6,8 @@
 
 P.S. The model was fine-tuned on private dataset, that facilitaties text from web pages(primarly Russian language).
 
+## Warning:
+<code>Git clone</code> with git lfs installed!
+
 ## Results:
 ![Results](https://github.com/user-attachments/assets/0bd1dd11-430d-440c-8dbd-d5556cc79df9)
